@@ -4,7 +4,7 @@
 
 import java.util.*;
 
-public class Main{
+public class FabricaDeCarros{
 
 	public static void main(String[] args) {
 
